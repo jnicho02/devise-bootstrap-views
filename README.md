@@ -48,7 +48,7 @@ rails g devise:views:bootstrap_templates
 
 ## Example
 
-Sample Application can be found at this link - [Devise Boostrap Views Application](https://github.com/ethiraj-srinivasan/devise-boostrap-views)
+Sample Application can be found at this link - [Devise Bootstrap Views Application](https://github.com/ethiraj-srinivasan/devise-boostrap-views)
 
 ## Contributing
 
