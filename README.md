@@ -2,9 +2,9 @@
 
 Here are some of the highlights:
 
-* Devise views with Bootstrap 3.
+* Devise views with Bootstrap 3 and 4.
 * Used Bootstrap responsive columns.
-* I18n Support.
+* I18n support.
 
 WARNING:
 This gem copies lots of its code from [devise-i18n-views](https://github.com/mcasimir/devise-i18n-views) gem.
